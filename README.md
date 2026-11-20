@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="2048" height="1034" alt="uu (1)" src="https://github.com/user-attachments/assets/28dc0d3c-5225-4018-83c9-88170c790db5" />
+
 
 <!--
 **aphelizaveta/aphelizaveta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
